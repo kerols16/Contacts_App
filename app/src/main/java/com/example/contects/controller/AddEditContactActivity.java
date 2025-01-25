@@ -15,6 +15,7 @@ import com.example.contects.model.ContactManagement;
 
 public class AddEditContactActivity extends AppCompatActivity {
 
+
     private EditText nameEditText, phoneEditText;
     private Button saveButton;
     private TextView titletxt;
